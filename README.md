@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangkpatel" alt="shivangkpatel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shivang02052005" target="blank"><img src="https://img.shields.io/twitter/follow/@shivang02052005?logo=twitter&style=for-the-badge" alt="@shivang02052005" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@shivang02052005" target="blank"><img src="https://img.shields.io/twitter/follow/@shivang02052005?logo=twitter&style=for-the-badge" alt="shivang02052005" /></a> </p>
 
-- 🔭 I’m currently working on **bookMyCelebration**
+- 🔭 I’m currently working on **AWS Cloud Based Projects**
 
-- 🌱 I’m currently learning **Node js, Python**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **DSA using C++**
+- 💬 Ask me about **DSA, NodeJS, Cloud**
 
 - 📫 How to reach me **shivang02052005@gmail.com**
 
