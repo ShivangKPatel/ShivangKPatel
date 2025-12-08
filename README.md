@@ -59,17 +59,4 @@ A production-grade backend system deployed on university servers, used daily by 
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangkpatel&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangkpatel&layout=compact&theme=default" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangkpatel&theme=default" />
-</p>
-
----
-
 🌟 *Thanks for visiting my profile! Always building, always learning.*  
